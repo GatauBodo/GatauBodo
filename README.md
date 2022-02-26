@@ -1,16 +1,13 @@
-### Hi there 👋
+<h3 align="center">Pembuat Akun ini :</h3>
+<p align="center">
+  <a href="https://github.com/imellChannX"><img src="https://github.com/imellChannX.png?size=128" height="128" width="128" /></a>
+  <a href="https://github.com/FiraaChan"><img src="https://github.com/FiraaChan.png?size=128" height="128" width="128" /></a>
+  <a href="https://github.com/Firaachanzz"><img src="https://github.com/Firaachanzz.png?size=128" height="128" width="128" /></a>
+</p>
 
-<!--
-**GatauBodo/GatauBodo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Grup WhatsApp](https://img.shields.io/badge/WhatsApp%20Group%201-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/EAMAuySd2Da3cUCYAvfVMQ)
+[![Whatsapp Gua](https://img.shields.io/badge/WhatsApp%20GUA-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283830815715/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Jang Lupa Follow Kak>_<
