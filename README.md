@@ -1,6 +1,5 @@
 <h3 align="center">Pembuat Akun ini :</h3>
 <p align="center">
-  <a href="https://github.com/imellChannX"><img src="https://github.com/imellChannX.png?size=128" height="128" width="128" /></a>
   <a href="https://github.com/FiraaChan"><img src="https://github.com/FiraaChan.png?size=128" height="128" width="128" /></a>
   <a href="https://github.com/Firaachanzz"><img src="https://github.com/Firaachanzz.png?size=128" height="128" width="128" /></a>
 </p>
